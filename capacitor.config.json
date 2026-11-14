@@ -1,0 +1,6 @@
+capacitor
+{
+  "appId": "com.arena.mygame",
+  "appName": "My Arena Game",
+  "webDir": "dist"
+}
